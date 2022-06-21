@@ -1,6 +1,6 @@
 {
-    "name": "steampixel/simple-php-router",
-    "description": "This is a simple and small PHP router that can handle the whole url routing for your project.",
+    "name": "wackyblackie/SteamPixel-Route",
+    "description": "This is a simple, small, single-class PHP router that can handle the all url routing for your PHP project.",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -18,8 +18,8 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
-      "psr-0": {
-          "Steampixel": "src/"
-      }
+        "psr-0": {
+            "Steampixel": "src/"
+        }
   }
 }
