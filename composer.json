@@ -1,5 +1,5 @@
 {
-    "name": "wackyblackie/steampixel-route",
+    "name": "alanmburr/steampixel-route",
     "description": "This is a simple, small, single-class PHP router that can handle the all url routing for your PHP project.",
     "type": "library",
     "license": "MIT",
@@ -13,6 +13,11 @@
             "name": "Maximilian Götz",
             "email": "contact@maxbits.net",
             "homepage": "https://www.maxbits.net/"
+        },
+        {
+            "name": "Alan M. Burr",
+            "email": "info@alanburr.us.eu.org",
+            "homepage": "https://alanburr.us.eu.org"
         }
     ],
     "minimum-stability": "dev",
